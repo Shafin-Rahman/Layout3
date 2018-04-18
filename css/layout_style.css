@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: red;
+    min-height: 100px;
+    overflow: hidden;
+}
+.logo{
+    min-height: 70px;
+    border:1px solid white;
+    width: 20%;
+    float: left;
+    margin-top: 10px;
+}
+.nav{
+    min-height: 70px;
+    border:1px solid white;
+    width: 60%;
+    float: right;
+     margin-top: 10px;
+    
+}
+.slider{
+    min-height: 300px;
+    background-color: aqua;
+    overflow: hidden;
+}
+.text{
+      min-height: 200px;
+    background-color: cornflowerblue;
+    width: 80%;
+    margin: 30px auto;
+}
+.main_content{
+     min-height: 500px;
+    background-color: gray;
+    overflow: hidden;
+}
+.service{
+    min-height: 300px;
+    border:1px solid white;
+    overflow: hidden;
+}
+.single_service{
+   background-color: yellow;
+    min-height: 300px;
+    width: 20%;
+    margin: 30px;
+    float :left;
+}
+.content{
+    overflow: hidden;
+}
+.title{
+    overflow: hidden;
+}
+.pic{
+     min-height:50px;
+    background-color: red;
+    width:20%;
+    float: left;
+}
+.content_nav{
+    min-height:50px;
+    background-color: green;
+    width:60%;
+    float: right;
+}
+.content_text{
+    min-height: 200px;
+    background-color: orange;
+    width:90%;
+    margin:0 auto;
+}
+.view_more{
+    text-align: center;
+    color: red;
+}
+.social_media{
+    overflow: hidden;
+    min-height: 100px;
+    width: 90%;
+    margin: 2% auto;
+    background-color: #A8403D;
+}
+.media_content{
+    overflow: hidden;
+}
+.media{
+    float: left;
+    padding: 2% 5%;
+}
